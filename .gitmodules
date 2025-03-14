@@ -1,0 +1,3 @@
+[submodule "basic-app/node-app"]
+	path = basic-app/node-app
+	url = https://github.com/bhaktivora9/basic-app.git
